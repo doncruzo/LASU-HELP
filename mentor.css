@@ -25,17 +25,17 @@
     width: max-content;
     height: 100%;
 }
-    .html{width:100%;}
+    
 
 
 
-}
+
 .carousel-caption button{
    margin-top: 15px;
    
 }
 
-
+}
 
 .btn-info{
     background-image: linear-gradient(to right, #a517ba, #5f1782);

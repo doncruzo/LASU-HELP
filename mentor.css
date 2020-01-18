@@ -20,20 +20,21 @@
     margin-top: 15px;}
 
     /* media query for the slide to didplay on smaller phones */
-@media(max-width:750px){
+@media(max-width:1091px){
 .carousel-inner div img{
     width: max-content;
     height: 100%;
 }
+    .html{width:100%;}
 
 
 
-
+}
 .carousel-caption button{
    margin-top: 15px;
    
 }
-}
+
 
 
 .btn-info{
